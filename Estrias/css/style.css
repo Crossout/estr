@@ -209,7 +209,7 @@ p {
 
 /* 2GIS map styles */
 #map{
-  border: 2px outset black;
+  border: 3px outset rgb(155, 155, 155);
 }
 
 #fh5co-header {
