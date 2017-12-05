@@ -207,6 +207,11 @@ p {
   border-color: #f4e2d6;
 }
 
+/* 2GIS map styles */
+#map{
+  border: 2px outset black;
+}
+
 #fh5co-header {
   position: absolute;
   top: 20px;

@@ -17,6 +17,11 @@ body {
   color: #7a7e89;
   background: #f7f7f7;
 }
+
+#map{
+  border: 2px outset black;
+}
+
 body.fh5co-overflow {
   overflow-x: auto;
 }
