@@ -279,7 +279,7 @@ p {
 }
 #fh5co-header.navbar-fixed-top {
   position: fixed !important;
-  background: #f7f7f7;
+  background: #242424;
   -webkit-box-shadow: 0 0 9px 0 rgba(15, 15, 15, 0.1);
   -moz-box-shadow: 0 0 9px 0 rgba(15,15, 15, 0.1);
   -ms-box-shadow: 0 0 9px 0 rgba(15,15, 15, 0.1);
@@ -294,11 +294,11 @@ p {
 #fh5co-header.navbar-fixed-top #fh5co-logo a {
   font-family: "Open Sans Condensed", sans-serif;
   font-size: 30px;
-  color: rgb(15, 15, 15);
+  color: #f7f7f7;
 }
 #fh5co-header.navbar-fixed-top #fh5co-main-nav ul li a {
   font-family: "Open Sans Condensed", sans-serif;
-  color: rgba(15,15, 15, 0.8);
+  color: #f7f7f7;
   text-decoration: none;
   margin-left: 30px;
   border-bottom: 2px solid transparent;
