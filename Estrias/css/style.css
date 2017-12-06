@@ -694,6 +694,7 @@ p {
   display: inline;
 }
 .fh5co-social li a {
+  color: #f67d38;
   margin-left: 10px;
 }
 @media screen and (max-width: 768px) {
@@ -728,6 +729,7 @@ p {
   position: relative;
   z-index: 10;
 }
+
 .img-grid a {
   position: absolute;
   top: 0;
@@ -786,7 +788,7 @@ p {
 }
 
 .section-heading .fh5co-section-title {
-  font-size: 11px;
+  font-size: 22px;
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #41454f;
