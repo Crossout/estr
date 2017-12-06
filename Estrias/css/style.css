@@ -23,33 +23,33 @@ body.fh5co-overflow {
 
 ::-webkit-selection {
   color: #fff;
-  background: #f4e2d6;
+  background: #ffcba3;
 }
 
 ::-moz-selection {
   color: #fff;
-  background: #f4e2d6;
+  background: #ffcba3;
 }
 
 ::selection {
   color: #fff;
-  background: #f4e2d6;
+  background: #ffcba3;
 }
 
 a {
-  color: #f4e2d6;
+  color: #ffcba3;
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
 }
 a:hover, a:focus, a:active {
-  color: #f67d38;
+  color: #ff9b4f;
   outline: none;
   text-decoration: none;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   color: #000;
 }
 
@@ -60,7 +60,7 @@ p {
 .btn {
   margin-right: 4px;
   margin-bottom: 4px;
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   font-size: 12px;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -85,21 +85,21 @@ p {
 }
 
 .btn-primary {
-  background: #f4e2d6;
+  background: #ffcba3;
   color: #fff;
-  border: 2px solid #f4e2d6;
+  border: 2px solid #ffcba3;
 }
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active {
-  background: #f89d69 !important;
-  border-color: #f89d69 !important;
+  background: #ff9b4f !important;
+  border-color: #ff9b4f !important;
 }
 .btn-primary.btn-outline {
   background: transparent;
-  color: #f4e2d6;
-  border: 2px solid #f4e2d6;
+  color: #ffcba3;
+  border: 2px solid #ffcba3;
 }
 .btn-primary.btn-outline:hover, .btn-primary.btn-outline:focus, .btn-primary.btn-outline:active {
-  background: #f4e2d6;
+  background: #ffcba3;
   color: #fff;
 }
 
@@ -204,12 +204,7 @@ p {
 .form-control:active, .form-control:focus {
   outline: none;
   box-shadow: none;
-  border-color: #f4e2d6;
-}
-
-/* 2GIS map styles */
-#map{
-  border: 3px outset rgb(155, 155, 155);
+  border-color: #ffcba3;
 }
 
 #fh5co-header {
@@ -238,7 +233,7 @@ p {
   }
 }
 #fh5co-header #fh5co-logo a {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   font-size: 30px;
   color: #fff;
 }
@@ -248,7 +243,7 @@ p {
   }
 }
 #fh5co-header #fh5co-logo a span {
-  color: #f4e2d6;
+  color: #ffcba3;
 }
 #fh5co-header #fh5co-main-nav {
   float: right;
@@ -268,7 +263,7 @@ p {
   display: inline;
 }
 #fh5co-header #fh5co-main-nav ul li a {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   color: rgba(255, 255, 255, 0.8);
   text-decoration: none;
   margin-left: 30px;
@@ -276,11 +271,11 @@ p {
 }
 #fh5co-header #fh5co-main-nav ul li a:hover {
   text-decoration: none;
-  color: #f4e2d6;
+  color: #ffcba3;
 }
 #fh5co-header #fh5co-main-nav ul li.active a {
   color: #fff;
-  border-bottom: 2px solid #f4e2d6;
+  border-bottom: 2px solid #ffcba3;
 }
 #fh5co-header.navbar-fixed-top {
   position: fixed !important;
@@ -297,12 +292,12 @@ p {
   line-height: 1.2;
 }
 #fh5co-header.navbar-fixed-top #fh5co-logo a {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   font-size: 30px;
   color: #000;
 }
 #fh5co-header.navbar-fixed-top #fh5co-main-nav ul li a {
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   color: rgba(0, 0, 0, 0.8);
   text-decoration: none;
   margin-left: 30px;
@@ -310,10 +305,10 @@ p {
 }
 #fh5co-header.navbar-fixed-top #fh5co-main-nav ul li a:hover {
   text-decoration: none;
-  color: #f4e2d6;
+  color: #ffcba3;
 }
 #fh5co-header.navbar-fixed-top #fh5co-main-nav ul li.active a {
-  color: #f4e2d6;
+  color: #ffcba3;
   border-bottom: 2px solid transparent;
 }
 
@@ -341,7 +336,7 @@ p {
 #fh5co-home .flexslider .fh5co-text h1 {
   margin: 0 0 30px 0;
   padding: 0;
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   font-size: 50px;
   font-weight: 400;
   color: #fff;
@@ -364,7 +359,7 @@ p {
   margin-top: 30px;
 }
 #fh5co-home .flexslider .fh5co-text .fh5co-go a {
-  font-family: "Roboto", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   font-size: 13px;
   letter-spacing: 2px;
   text-transform: uppercase;
@@ -474,10 +469,10 @@ p {
   padding: 7px 0;
 }
 #fh5co-offcanvas nav ul li a:hover {
-  color: #f4e2d6;
+  color: #ffcba3;
 }
 #fh5co-offcanvas nav ul li.active a {
-  color: #f4e2d6;
+  color: #ffcba3;
 }
 .offcanvas-visible #fh5co-offcanvas {
   -moz-transform: translateX(0px);
@@ -559,7 +554,7 @@ p {
   -moz-osx-font-smoothing: grayscale;
   content: "\e114";
   font-size: 50px;
-  color: #f4e2d6;
+  color: #ffcba3;
 }
 @media screen and (max-width: 992px) {
   #fh5co-about .fh5co-text.with-plus:after {
@@ -609,7 +604,7 @@ p {
 #fh5co-testimony .flexslider .slides li blockquote p {
   font-size: 40px;
   line-height: 1.5;
-  font-family: "Roboto Slab", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   color: white !important;
 }
 @media screen and (max-width: 768px) {
@@ -622,7 +617,7 @@ p {
   display: block;
   padding-top: 20px;
   font-size: 20px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Open Sans Condensed", sans-serif;
   font-style: normal;
   color: rgba(255, 255, 255, 0.7);
 }
@@ -651,7 +646,7 @@ p {
   position: relative;
   background: transparent;
   box-shadow: none;
-  border: 2px solid #f4e2d6;
+  border: 2px solid #ffcba3;
 }
 
 #fh5co-footer {
@@ -665,7 +660,7 @@ p {
   }
 }
 #fh5co-footer a {
-  color: #f67d38;
+  color: #ff9b4f;
 }
 #fh5co-footer a:hover {
   text-decoration: underline;
@@ -694,7 +689,6 @@ p {
   display: inline;
 }
 .fh5co-social li a {
-  color: #f67d38;
   margin-left: 10px;
 }
 @media screen and (max-width: 768px) {
@@ -729,7 +723,6 @@ p {
   position: relative;
   z-index: 10;
 }
-
 .img-grid a {
   position: absolute;
   top: 0;
@@ -778,7 +771,7 @@ p {
   margin-left: -10px;
   height: 2px;
   left: 50%;
-  background: #f4e2d6;
+  background: #ffcba3;
 }
 .img-grid:hover > a {
   opacity: 1;
@@ -788,10 +781,10 @@ p {
 }
 
 .section-heading .fh5co-section-title {
-  font-size: 22px;
+  font-size: 11px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #41454f;
+  color: #4f5258;
   font-family: "Roboto", sans-serif;
   font-weight: 700;
   opacity: .4;
@@ -820,7 +813,7 @@ p {
   text-decoration: none;
 }
 .fh5co-nav-toggle.active i::before, .fh5co-nav-toggle.active i::after {
-  background: #f4e2d6;
+  background: #ffcba3;
 }
 .fh5co-nav-toggle:hover, .fh5co-nav-toggle:focus, .fh5co-nav-toggle:active {
   outline: none;
