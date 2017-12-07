@@ -280,7 +280,7 @@ p {
 }
 #fh5co-header.navbar-fixed-top {
   position: fixed !important;
-  background: #202020;
+  background: #242424;
   -webkit-box-shadow: 0 0 9px 0 rgba(15, 15, 15, 0.1);
   -moz-box-shadow: 0 0 9px 0 rgba(15,15, 15, 0.1);
   -ms-box-shadow: 0 0 9px 0 rgba(15,15, 15, 0.1);
@@ -447,7 +447,7 @@ p {
   -moz-osx-font-smoothing: grayscale;
   content: "\e117";
   font-size: 30px;
-  color: rgba(247, 247, 247, 0.5);
+  color: rgba(247, 247, 247, 0.568);
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
@@ -785,7 +785,7 @@ p {
   font-size: 22px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #4f5258;
+  color: #f7f7f7;
   font-family: "Open Sans Condensed", sans-serif;
   font-weight: 700;
   opacity: .4;
