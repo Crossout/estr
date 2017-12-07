@@ -11,7 +11,7 @@ html {
 
 body {
   font-family: 'Open Sans Condensed', sans-serif;;
-  font-size: 18px;
+  font-size: 20px;
   font-weight: 300;
   line-height: 1.5;
   color: #9da0a8;
@@ -264,6 +264,7 @@ p {
 }
 #fh5co-header #fh5co-main-nav ul li a {
   font-family: "Open Sans Condensed", sans-serif;
+  font-size: 22px;
   color: #f7f7f7;
   text-decoration: none;
   margin-left: 30px;
@@ -279,7 +280,7 @@ p {
 }
 #fh5co-header.navbar-fixed-top {
   position: fixed !important;
-  background: #242424;
+  background: #202020;
   -webkit-box-shadow: 0 0 9px 0 rgba(15, 15, 15, 0.1);
   -moz-box-shadow: 0 0 9px 0 rgba(15,15, 15, 0.1);
   -ms-box-shadow: 0 0 9px 0 rgba(15,15, 15, 0.1);
@@ -360,7 +361,7 @@ p {
 }
 #fh5co-home .flexslider .fh5co-text .fh5co-go a {
   font-family: "Open Sans Condensed", sans-serif;
-  font-size: 13px;
+  font-size: 18px;
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #f7f7f7;
@@ -652,7 +653,7 @@ p {
 #fh5co-footer {
   background: #f7f7f7;
   padding: 4em 0;
-  font-size: 16px;
+  font-size: 18px;
 }
 @media screen and (max-width: 768px) {
   #fh5co-footer {
@@ -781,7 +782,7 @@ p {
 }
 
 .section-heading .fh5co-section-title {
-  font-size: 11px;
+  font-size: 22px;
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #4f5258;
