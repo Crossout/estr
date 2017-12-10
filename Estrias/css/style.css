@@ -386,6 +386,12 @@ p {
   -moz-animation: ani-mouse 2.5s linear infinite;
   animation: ani-mouse 2.5s linear infinite;
 }
+
+.center-block {
+  margin-left: auto;
+  margin-right: auto;
+}
+
 #olvyko-home .flexslider .olvyko-text .olvyko-go a:hover {
   text-decoration: none;
 }
@@ -712,6 +718,10 @@ p {
 }
 .olvyko-social li a:hover i {
   text-decoration: none;
+}
+
+.img-center {
+  margin:0 auto;
 }
 
 .img-grid {
