@@ -489,6 +489,7 @@ p {
 }
 
 #olvyko-portfolio,
+#olvyko-reviews,
 #olvyko-about,
 #olvyko-contact,
 #olvyko-testimony,
@@ -497,6 +498,7 @@ p {
 }
 @media screen and (max-width: 768px) {
   #olvyko-portfolio,
+  #olvyko-reviews,
   #olvyko-about,
   #olvyko-contact,
   #olvyko-testimony,
