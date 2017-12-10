@@ -50,7 +50,7 @@ a:hover, a:focus, a:active {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Open Sans Condensed", sans-serif;
-  color: rgb(15, 15, 15);
+  color: #8e9096;
 }
 
 p {
@@ -497,6 +497,7 @@ p {
 #olvyko-portfolio,
 #olvyko-reviews,
 #olvyko-about,
+#olvyko-news,
 #olvyko-contact,
 #olvyko-testimony,
 #olvyko-content {
@@ -506,6 +507,7 @@ p {
   #olvyko-portfolio,
   #olvyko-reviews,
   #olvyko-about,
+  #olvyko-news,
   #olvyko-contact,
   #olvyko-testimony,
   #olvyko-content {
@@ -517,11 +519,11 @@ p {
   margin-bottom: 30px;
 }
 
-#olvyko-about {
+#olvyko-about, #olvyko-news{
   background: #f7f7f7;
 }
 #olvyko-about h2 {
-  color: #444853;
+  color: #8e9096;
 }
 #olvyko-about .olvyko-text {
   padding-left: 4em;
@@ -802,7 +804,7 @@ p {
   font-size: 22px;
   letter-spacing: 2px;
   text-transform: uppercase;
-  color: #f7f7f7;
+  color: #8e9096;
   font-family: "Open Sans Condensed", sans-serif;
   font-weight: 700;
   opacity: .4;
