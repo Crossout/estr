@@ -376,10 +376,10 @@ p {
   padding-bottom: 50px;
 }
 #olvyko-home .flexslider .olvyko-text .olvyko-go a span {
-  font-size: 20px;
+  font-size: 26px;
   display: block;
   position: absolute;
-  bototm: 0;
+  bottom: 0;
   left: 50%;
   margin-left: -10px;
   -webkit-animation: ani-mouse 2.5s linear infinite;
@@ -513,7 +513,7 @@ p {
   background: #f7f7f7;
 }
 #olvyko-about h2 {
-  color: #8e9096;
+  color: #444853;
 }
 #olvyko-about .olvyko-text {
   padding-left: 4em;
