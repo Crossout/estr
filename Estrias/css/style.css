@@ -198,6 +198,13 @@ p {
   border: 3px outset #9da0a8;
 }
 
+.logo-cristal {
+  height: 200px;
+  position: absolute;
+  transform: translate(-50%, -122%);
+  left: 50%;
+}
+
 .form-control {
   box-shadow: none;
   background: transparent;
@@ -502,7 +509,14 @@ p {
 #olvyko-testimony,
 #olvyko-content {
   padding: 7em 0;
+  border-bottom: 4px solid #101010;
 }
+
+
+#olvyko-portfolio {
+  border-top: 4px solid #101010;
+}
+
 @media screen and (max-width: 768px) {
   #olvyko-portfolio,
   #olvyko-reviews,
@@ -801,13 +815,12 @@ p {
 }
 
 .section-heading .olvyko-section-title {
-  font-size: 22px;
+  font-size: 24px;
   letter-spacing: 2px;
   text-transform: uppercase;
   color: #8e9096;
   font-family: "Open Sans Condensed", sans-serif;
   font-weight: 700;
-  opacity: .4;
   margin-bottom: 20px;
 }
 
