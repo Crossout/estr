@@ -140,11 +140,11 @@
 	};
 	
 	// Parallax
-	var parallax = function() {
+	/*var parallax = function() {
 
 		$(window).stellar();
 
-	};
+	};*/
 
 
 	// Redirect page 
@@ -345,7 +345,7 @@
 		offcanvasMenu();
 		mainMenuSticky();
 		mobileMenuOutsideClick();
-		parallax();
+		//parallax();
 		burgerMenu();
 		scrolledWindow();
 		clickMenu();

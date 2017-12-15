@@ -322,7 +322,6 @@ p {
  * Flexslider
  */
 #olvyko-home {
-  min-height: 700px;
   background: #f7f7f7 url(../images/loader.gif) no-repeat center center;
 }
 #olvyko-home .flexslider {
@@ -390,6 +389,10 @@ p {
 .center-block {
   margin-left: auto;
   margin-right: auto;
+}
+
+#collapse-text {
+  bottom: 30px;
 }
 
 #olvyko-home .flexslider .olvyko-text .olvyko-go a:hover {
@@ -727,7 +730,7 @@ p {
   }
 }
 .olvyko-social li a i {
-  font-size: 20px;
+  font-size: 30px;
 }
 .olvyko-social li a:hover {
   text-decoration: none !important;
