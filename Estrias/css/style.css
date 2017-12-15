@@ -198,13 +198,6 @@ p {
   border: 3px outset #9da0a8;
 }
 
-.logo-cristal {
-  height: 200px;
-  position: absolute;
-  transform: translate(-50%, -122%);
-  left: 50%;
-}
-
 .form-control {
   box-shadow: none;
   background: transparent;
@@ -533,14 +526,14 @@ p {
   margin-bottom: 30px;
 }
 
+#olvyko-about{
+  text-align: center;
+}
+
 #olvyko-about, #olvyko-news{
   background: #f7f7f7;
 }
-#olvyko-about h2 {
-  color: #8e9096;
-}
-#olvyko-about .olvyko-text {
-  padding-left: 4em;
+
 }
 @media screen and (max-width: 992px) {
   #olvyko-about .olvyko-text {
