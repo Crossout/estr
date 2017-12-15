@@ -221,7 +221,7 @@ p {
   padding: 15px 0;
   width: 100%;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
   #olvyko-header {
     background: #f7f7f7;
     top: 0;
@@ -232,7 +232,7 @@ p {
   line-height: 1.2;
   position: relative;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
   #olvyko-header #olvyko-logo {
     top: -2px;
   }
@@ -242,7 +242,7 @@ p {
   font-size: 30px;
   color: rgb(247, 247, 247);
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
   #olvyko-header #olvyko-logo a {
     color: rgb(15, 15, 15);
   }
@@ -253,7 +253,7 @@ p {
 #olvyko-header #olvyko-main-nav {
   float: right;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
   #olvyko-header #olvyko-main-nav {
     display: none;
   }
@@ -502,12 +502,15 @@ p {
 #olvyko-testimony,
 #olvyko-content {
   padding: 7em 0;
-  border-bottom: 4px solid #101010;
+  border-bottom: 4px solid #1b1b1b;
 }
 
+#border-img{
+  border: 3px solid #f7f7f7;
+}
 
 #olvyko-portfolio {
-  border-top: 4px solid #101010;
+  border-top: 4px solid #1b1b1b;
 }
 
 @media screen and (max-width: 768px) {
@@ -534,7 +537,11 @@ p {
   background: #f7f7f7;
 }
 
+.text-news{
+  text-align: left;
 }
+
+
 @media screen and (max-width: 992px) {
   #olvyko-about .olvyko-text {
     padding: 0 0 20px 0;
@@ -728,6 +735,7 @@ p {
 .olvyko-social li a:hover i {
   text-decoration: none;
 }
+
 
 .img-center {
   margin:0 auto;
@@ -923,7 +931,7 @@ p {
   width: 25px;
   border-bottom: none !important;
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 992px) {
   .olvyko-nav-toggle {
     display: block;
   }
