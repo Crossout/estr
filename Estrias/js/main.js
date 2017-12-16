@@ -52,7 +52,7 @@
 
 		$('#olvyko-testimony .flexslider').flexslider({
 			animation: "slide",
-			slideshowSpeed: 5000,
+			slideshowSpeed: 10000,
 			directionNav: false,
 			controlNav: true,
 			smoothHeight: true,
